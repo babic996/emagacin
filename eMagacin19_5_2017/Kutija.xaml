@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="eMagacin19_5_2017.Kutija"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:eMagacin19_5_2017"
+             mc:Ignorable="d" Height="93.512" Width="205.918">
+    <Grid MouseLeftButtonUp="Grid_MouseLeftButtonUp">
+        <Rectangle x:Name="rectPozadina" Fill="#FF106A10" HorizontalAlignment="Center" Height="83" Margin="0" Stroke="Black" VerticalAlignment="Center" Width="189" />
+        <Label x:Name="lbRedniBroj" Content="10" HorizontalAlignment="Right" Height="40" Margin="0,8,13,0" VerticalAlignment="Top" Width="56" Foreground="White" HorizontalContentAlignment="Right" FontSize="24"/>
+        <Label x:Name="lbSadrzaj" Content="Label" HorizontalAlignment="Center" Height="23" Margin="14,64,8,0" VerticalAlignment="Top" Width="184" Foreground="#FFFBF7F7" HorizontalContentAlignment="Center" FontSize="11"/>
+        <Image x:Name="imgKutije"  HorizontalAlignment="Left" Height="45" Margin="19,13,0,0" VerticalAlignment="Top" Width="107"/>
+
+    </Grid>
+</UserControl>

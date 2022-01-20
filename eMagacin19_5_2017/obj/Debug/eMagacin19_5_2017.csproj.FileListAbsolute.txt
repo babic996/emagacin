@@ -1,0 +1,80 @@
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\Resources\kondezatori.jpg
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\Resources\otpornici.jpg
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.exe.config
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.exe
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.pdb
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\MySql.Data.dll
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\MySql.Data.xml
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.csprojResolveAssemblyReference.cache
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\Kutija.g.cs
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\MainWindow.g.cs
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\App.g.cs
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_Content.g.cs
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_MarkupCompile.cache
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_MarkupCompile.lref
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\Kutija.baml
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\MainWindow.baml
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.g.resources
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.Properties.Resources.resources
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.csproj.GenerateResource.Cache
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.csproj.CoreCompileInputs.cache
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.exe
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.pdb
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\PodizanjeKomponenti.g.cs
+C:\Users\DT User\source\repos\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\PodizanjeKomponenti.baml
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.exe.config
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.exe
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.pdb
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\Resources\kondezatori.jpg
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\Resources\otpornici.jpg
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.exe
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.pdb
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\mscorlib.dll
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\MySql.Data.xml
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normidna.nlp
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfc.nlp
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfd.nlp
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfkc.nlp
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfkd.nlp
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.csprojResolveAssemblyReference.cache
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\Kutija.g.cs
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\MainWindow.g.cs
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\PodizanjeKomponenti.g.cs
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\App.g.cs
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_Content.g.cs
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_MarkupCompile.cache
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_MarkupCompile.lref
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\Kutija.baml
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\MainWindow.baml
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\PodizanjeKomponenti.baml
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.g.resources
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.Properties.Resources.resources
+F:\treca godina materijali-korisno\TMP\tmp-rokovi\TMP rokovi\II kol, rokovi, WPF\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.csproj.GenerateResource.Cache
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.exe.config
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.exe
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.pdb
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\Resources\kondezatori.jpg
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\Resources\otpornici.jpg
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.exe
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\eMagacin19_5_2017.pdb
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\mscorlib.dll
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\MySql.Data.xml
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normidna.nlp
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfc.nlp
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfd.nlp
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfkc.nlp
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\bin\Debug\normnfkd.nlp
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.csprojResolveAssemblyReference.cache
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\Kutija.g.cs
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\MainWindow.g.cs
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\PodizanjeKomponenti.g.cs
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\App.g.cs
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_Content.g.cs
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_MarkupCompile.cache
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017_MarkupCompile.lref
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\Kutija.baml
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\MainWindow.baml
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\PodizanjeKomponenti.baml
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.g.resources
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.Properties.Resources.resources
+C:\Users\Aco\Desktop\eMagacin19_5_2017\eMagacin19_5_2017\obj\Debug\eMagacin19_5_2017.csproj.GenerateResource.Cache
